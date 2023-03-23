@@ -1,0 +1,292 @@
+.ul1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #37393f;
+}
+.wcollar {
+  position: absolute;
+  margin-top: 20px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 38px;
+}
+.logo {
+  width: 60px;
+  position: absolute;
+  margin-top: -20px;
+  margin-right: 1500px;
+}
+.ll {
+  color: #6b77e5;
+}
+.li1 {
+  margin-left: 30px;
+}
+
+.hdiv {
+  margin-left: 300px;
+  margin-top: 50px;
+}
+.li2 {
+  background-color: #6b77e5;
+  background-size: 120px;
+  width: 100px;
+  margin-left: 30px;
+  height: 65px;
+  width: 184px;
+  border-radius: 0px;
+  padding: 21px 35px 22px 35px;
+  margin-top: -20px;
+  font-family: "Cabin";
+  font-style: normal;
+  font-size: 18px;
+  color: #ffffff;
+}
+
+.saw {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 100px;
+}
+.how {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin: 100px;
+  color: #37393f;
+}
+.ww {
+  width: 119px;
+  height: 22px;
+  left: 82px;
+  top: 0px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+}
+.ww1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+}
+.img1 {
+  height: 557px;
+  width: 1920px;
+}
+.grey1 {
+  background-color: rgba(244, 244, 244, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 386px;
+  height: 383px;
+  margin: 40px;
+  margin-left: 200px;
+  text-align: center;
+}
+.app1 {
+  width: 245px;
+  height: 32px;
+  margin-top: 60px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  color: rgba(55, 57, 63, 1);
+}
+.hgrey {
+  margin-top: 30px;
+  color: rgba(107, 119, 229, 1);
+  width: 111px;
+  height: 22px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+}
+.pgrey {
+  width: 300px;
+  height: 78px;
+  margin-top: 40px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+  color: rgba(125, 125, 125, 1);
+}
+.calendar {
+  width: 40px;
+  position: absolute;
+  margin-top: 280px;
+}
+.grey2 {
+  background-color: rgba(244, 244, 244, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 386px;
+  height: 383px;
+  margin: 40px;
+  margin-left: 600px;
+  margin-top: -423px;
+  text-align: center;
+}
+.grey3 {
+  background-color: rgba(244, 244, 244, 1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 386px;
+  height: 383px;
+  margin: 40px;
+  margin-left: 1000px;
+  margin-top: -423px;
+  text-align: center;
+}
+.bgimg {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.vid {
+  position: absolute;
+  margin-top: 100px;
+  width: 102px;
+  height: 22px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+}
+.pres {
+  position: absolute;
+  margin-top: 200px;
+  width: 349px;
+  height: 48px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+}
+.imgp {
+  position: absolute;
+  margin-top: 300px;
+  width: 511px;
+  height: 52px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: #37393f;
+}
+.start {
+  height: 30.27726936340332px;
+  width: 20.3388671875px;
+  left: 246.3310546875px;
+  top: 223.111328125px;
+  border-radius: 0px;
+}
+.circle {
+  position: absolute;
+  border-radius: 50%;
+  background-color: #6b77e5;
+  height: 64.5px;
+  width: 64.5px;
+  margin-top: 400px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.tm {
+  width: 84px;
+  height: 22px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+}
+.team {
+  display: flex;
+  margin-top: 200px;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.exp {
+  width: 348px;
+  height: 48px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+}
+.foto1 {
+  height: 665.9998779296875px;
+  width: 998.9998779296875px;
+  border-radius: 0px;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+.tetri {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  height: 114px;
+  width: 341px;
+  margin-top: -150px;
+  align-items: center;
+  margin-left: 20px;
+  text-align: center;
+}
+.woman1 {
+  width: 203px;
+  height: 38px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  color: #37393f;
+  margin-top: 20px;
+}
+.manage {
+  width: 157px;
+  height: 24px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  color: rgba(125, 125, 125, 1);
+}
+.foto2 {
+  margin-top: -300px;
+  height: 665.9998779296875px;
+  width: 998.9998779296875px;
+  border-radius: 0px;
+  margin-left: 450px;
+  margin-top: -537px;
+}
